@@ -3,7 +3,7 @@
 Google Text2Speech is a Google AI product to converts text into human-like speech. We implemented this application and provided an interactive interface for researchers to quickly start and deploy this AI function.
 
 **Usages**
-```python
+```
 $ python text2speech.py
 ```
 Check our demo:
